@@ -23,11 +23,11 @@ The dataset consists of 8037 T-1 weighted brain MRI images in JPG format.
 
 The dataset was compiled from publicly available brain MRI datasets and combined to increase the amount of training data and reduce class imbalance.
 
-**Dataset**                **Num of Images**
-1. Training                      5464
-2. Validation                    965
-3. Testing                       1068
-4. **Total**                   **8037**
+**Dataset**                
+1. Training: 5464
+2. Validation: 965
+3. Testing: 1068
+4. **Total: 8037**
 
 The data was split using stratified sampling to maintain the class distribution accross datasets.
 
