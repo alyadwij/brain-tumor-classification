@@ -73,6 +73,17 @@ Main features include:
 6. Diagnosis result display
 7. Reset functionality
 
+## gui application preview
+
+### Main Interface
+![Main Interface](assets/main_interface.jpg)
+
+### Classification Result
+![Classification Result](assets/classification_result.jpg)
+
+### Preprocessing Preview
+![Preprocessing Preview](assets/preprocessing_preview.jpg)
+
 ## technologies
 1. Python
 2. TensorFlow/Keras
