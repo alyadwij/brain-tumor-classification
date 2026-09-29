@@ -52,12 +52,12 @@ Four deep learning approaches were implemented and evaluated:
 The transfer learning models use ImageNet-pretrained weights followed by additional classification layers and fine tuning.
 
 ## results
-The models were evaluated using the test dataset.
-**Model**              **Test Acc**
-Custom CNN              97.38%
-ResNet50                97.89%
-VGG16                   97.76%
-VGG19                   98.45%
+The models were evaluated using the test dataset. 
+**Model**              
+1. Custom CNN: Test acc 97.38%
+2. ResNet50  : Test acc 97.89%
+3. VGG16     : Test acc 97.76%
+4. VGG19     : Test acc 98.45%
 
 Additional evaluation was performed using precision, recall, F1-score, and confusion matrix.
 
