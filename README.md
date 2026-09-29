@@ -13,10 +13,10 @@ The system also includes a graphical user interface (GUI) that allows users to u
 
 ## classification classes
 The models classify MRI images into four categories:
-~ Glioma
-~ Meningioma
-~ No tumor
-~ Pituitary
+1. Glioma
+2. Meningioma
+3. No tumor
+4. Pituitary
 
 ## dataset
 The dataset consists of 8037 T-1 weighted brain MRI images in JPG format. 
@@ -65,19 +65,19 @@ Additional evaluation was performed using precision, recall, F1-score, and confu
 The project includes a desktop GUI developed using Python Tkinter.
 
 Main features include:
-~ MRI image upload
-~ Direct image classification
-~ Prediction probabilities
-~ Model selection (Custom CNN, ResNet50, VGG16, VGG19)
-~ Preprocessing preview
-~ Diagnosis result display
-~ Reset functionality
+1. MRI image upload
+2. Direct image classification
+3. Prediction probabilities
+4. Model selection (Custom CNN, ResNet50, VGG16, VGG19)
+5. Preprocessing preview
+6. Diagnosis result display
+7. Reset functionality
 
 ## technologies
-~ Python
-~ TensorFlow/Keras
-~ OpenCV
-~ NumPy
-~ Scikit-learn
-~ Matplotlib
-~ Tkinter
+1. Python
+2. TensorFlow/Keras
+3. OpenCV
+4. NumPy
+5. Scikit-learn
+6. Matplotlib
+7. Tkinter
